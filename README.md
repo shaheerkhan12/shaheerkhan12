@@ -1,8 +1,8 @@
 # Hi there, I'm Muhammad Shaheer khan
 
-### I'm a Co-Founder | Software Engineer | Big Data Developer | Full Stack Developer
-- 🔭 I’m currently working as VP Engineering
-- 🌱 I’m currently learning Nodejs, Go, Kubernetes, Openstack, Kafka, Clickhouse.
+### I'm a Software Engineer | Beginner Big Data Developer | Full Stack Developer
+- 🔭 I’m currently working as a full stack Developer
+- 🌱 I’m currently learning Nodejs, nextjs, Kubernetes, dockers, Kafka, Clickhouse.
 
 <h2><i>💻 Technologies/Tools I am Familiar with</i></h2>
 <h3> Frontend </h3>
@@ -171,13 +171,3 @@
 </table>
 </br>
 
-<h2><i>💻 Packages I Created</i></h2>
-<h3> Query Maker </h3>
-<table width="100">
-<tr>
-    <td align='center' width="250">
-        <img src="https://github.com/shaheerkhan12/Muhammadshaheerkhan/blob/main/images/querymaker.png" width="250" >
-    </td>
-</tr>
-</table>
-</br>
