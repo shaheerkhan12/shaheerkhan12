@@ -110,9 +110,6 @@
         <img src="https://github.com/shaheerkhan12/Muhammadshaheerkhan/blob/main/images/expressjs.png" width="250" >
     </td>
     <td align='center' width="250">
-        <img src="https://github.com/shaheerkhan12/Muhammadshaheerkhan/blob/main/images/nestjs.png" width="250" >
-    </td>
-        <td align='center' width="250">
         <img src="https://github.com/shaheerkhan12/Muhammadshaheerkhan/blob/main/images/nextjs.svg" width="250" >
     </td>
 </tr>
