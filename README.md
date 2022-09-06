@@ -128,9 +128,6 @@
     <td align='center' width="250">
         <img src="https://github.com/shaheerkhan12/Muhammadshaheerkhan/blob/main/images/aws.png" width="250" >
     </td>
-    <td align='center' width="250">
-        <img src="https://github.com/shaheerkhan12/Muhammadshaheerkhan/blob/main/images/gcp.png" width="250" >
-    </td>
 </tr>
 </table>
 
