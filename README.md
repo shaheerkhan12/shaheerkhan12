@@ -3,6 +3,7 @@
 ### I'm a Software Engineer | Beginner Big Data Developer | Full Stack Developer
 - 🔭 I’m currently working as a full stack Developer
 - 🌱 I’m currently learning Nodejs, nextjs, Kubernetes, dockers, Kafka, Clickhouse.
+-    working my way towards learning more about software deployment Architecture 
 
 <h2><i>💻 Technologies/Tools I am Familiar with</i></h2>
 <h3> Frontend </h3>
