@@ -112,12 +112,14 @@
     <td align='center' width="250">
         <img src="https://github.com/shaheerkhan12/Muhammadshaheerkhan/blob/main/images/nextjs.svg" width="250" >
     </td>
-</tr>
-  <tr>
-    <td align='center' width="250">
+     <td align='center' width="250">
+        <img src="https://github.com/shaheerkhan12/Muhammadshaheerkhan/blob/main/images/Typescript.png" width="250" >
+    </td>
+     <td align='center' width="250">
         <img src="https://github.com/shaheerkhan12/Muhammadshaheerkhan/blob/main/images/codeigniter.svg" width="250" >
     </td>
 </tr>
+
 </table>
 
 </br>
