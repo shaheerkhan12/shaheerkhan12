@@ -48,9 +48,7 @@
     <td align='center' width="250">
         <img src="https://github.com/shaheerkhan12/Muhammadshaheerkhan/blob/main/images/golang.png" width="250">
     </td>
-     <td align='center' width="250">
-        <img src="https://github.com/shaheerkhan12/Muhammadshaheerkhan/blob/main/images/php.svg" width="250">
-    </td>
+    
 </tr>
 </table>
 </br>
