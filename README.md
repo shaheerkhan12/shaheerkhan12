@@ -10,27 +10,27 @@
 <table width="100">
 <tr>
     <td align='center' width="250">
-        <img src="https://github.com/shaheerkhan12/Muhammadshaheerkhan/blob/main/images/angular.png" width="250" >
+        <img src="https://github.com/shaheerkhan12/shaheerkhan12/blob/main/images/angular.png" width="250" >
     </td>
     <td align='center' width="250">
-        <img src="https://github.com/shaheerkhan12/Muhammadshaheerkhan/blob/main/images/react.png"width="250" >
+        <img src="https://github.com/shaheerkhan12/shaheerkhan12/blob/main/images/react.png"width="250" >
     </td>
     <td align='center' width="250">
-        <img src="https://github.com/shaheerkhan12/Muhammadshaheerkhan/blob/main/images/javascript.png" width="250">
+        <img src="https://github.com/shaheerkhan12/shaheerkhan12/blob/main/images/javascript.png" width="250">
     </td>
      <td align='center' width="250">
-        <img src="https://github.com/shaheerkhan12/Muhammadshaheerkhan/blob/main/images/html.png" width="250">
+        <img src="https://github.com/shaheerkhan12/shaheerkhan12/blob/main/images/html.png" width="250">
     </td>
 </tr>
   <tr>
     <td align='center' width="250">
-        <img src="https://github.com/shaheerkhan12/Muhammadshaheerkhan/blob/main/images/css.png" width="250" >
+        <img src="https://github.com/shaheerkhan12/shaheerkhan12/blob/main/images/css.png" width="250" >
     </td>
     <td align='center' width="250">
-        <img src="https://github.com/shaheerkhan12/Muhammadshaheerkhan/blob/main/images/tailwind.svg"width="250" >
+        <img src="https://github.com/shaheerkhan12/shaheerkhan12/blob/main/images/tailwind.svg"width="250" >
     </td>
     <td align='center' width="250">
-        <img src="https://github.com/shaheerkhan12/Muhammadshaheerkhan/blob/main/images/ngzorro.svg" width="250">
+        <img src="https://github.com/shaheerkhan12/shaheerkhan12/blob/main/images/ngzorro.svg" width="250">
     </td>
 </tr>
 </table>
@@ -40,7 +40,7 @@
 <table width="100">
 <tr>
     <td align='center' width="250">
-        <img src="https://github.com/shaheerkhan12/Muhammadshaheerkhan/blob/main/images/nodejs.png" width="250" >
+        <img src="https://github.com/shaheerkhan12/shaheerkhan12/blob/main/images/nodejs.png" width="250" >
     </td>
     
     
@@ -52,10 +52,10 @@
 <table width="100">
 <tr>
     <td align='center' width="250">
-        <img src="https://github.com/shaheerkhan12/Muhammadshaheerkhan/blob/main/images/ionic.png" width="250" >
+        <img src="https://github.com/shaheerkhan12/shaheerkhan12/blob/main/images/ionic.png" width="250" >
     </td>
     <td align='center' width="250">
-        <img src="https://github.com/shaheerkhan12/Muhammadshaheerkhan/blob/main/images/react-native.png" width="250" >
+        <img src="https://github.com/shaheerkhan12/shaheerkhan12/blob/main/images/react-native.png" width="250" >
     </td>
 </tr>
 </table>
@@ -65,7 +65,7 @@
 <table width="100">
 <tr>
     <td align='center' width="250">
-        <img src="https://github.com/shaheerkhan12/Muhammadshaheerkhan/blob/main/images/clickhouse.png" width="250" >
+        <img src="https://github.com/shaheerkhan12/shaheerkhan12/blob/main/images/clickhouse.png" width="250" >
     </td>
 </tr>
 </table>
@@ -76,21 +76,21 @@
 <table width="100">
 <tr>
     <td align='center' width="250">
-        <img src="https://github.com/shaheerkhan12/Muhammadshaheerkhan/blob/main/images/postgresql.png" width="250" >
+        <img src="https://github.com/shaheerkhan12/shaheerkhan12/blob/main/images/postgresql.png" width="250" >
     </td>
     <td align='center' width="250">
-        <img src="https://github.com/shaheerkhan12/Muhammadshaheerkhan/blob/main/images/mongodb.png" width="250" >
+        <img src="https://github.com/shaheerkhan12/shaheerkhan12/blob/main/images/mongodb.png" width="250" >
     </td>
       <td align='center' width="250">
-        <img src="https://github.com/shaheerkhan12/Muhammadshaheerkhan/blob/main/images/mysql.png" width="250" >
+        <img src="https://github.com/shaheerkhan12/shaheerkhan12/blob/main/images/mysql.png" width="250" >
     </td>
         <td align='center' width="250">
-        <img src="https://github.com/shaheerkhan12/Muhammadshaheerkhan/blob/main/images/firebase.png" width="250" >
+        <img src="https://github.com/shaheerkhan12/shaheerkhan12/blob/main/images/firebase.png" width="250" >
     </td>
 </tr>
   <tr>
     <td align='center' width="250">
-        <img src="https://github.com/shaheerkhan12/Muhammadshaheerkhan/blob/main/images/redis.png" width="250" >
+        <img src="https://github.com/shaheerkhan12/shaheerkhan12/blob/main/images/redis.png" width="250" >
     </td>
 </tr>
 </table>
@@ -101,16 +101,16 @@
 <table width="100">
 <tr>
     <td align='center' width="250">
-        <img src="https://github.com/shaheerkhan12/Muhammadshaheerkhan/blob/main/images/expressjs.png" width="250" >
+        <img src="https://github.com/shaheerkhan12/shaheerkhan12/blob/main/images/expressjs.png" width="250" >
     </td>
     <td align='center' width="250">
-        <img src="https://github.com/shaheerkhan12/Muhammadshaheerkhan/blob/main/images/nextjs.svg" width="250" >
+        <img src="https://github.com/shaheerkhan12/shaheerkhan12/blob/main/images/nextjs.svg" width="250" >
     </td>
      <td align='center' width="250">
-        <img src="https://github.com/shaheerkhan12/Muhammadshaheerkhan/blob/main/images/TypeScript.png" width="250" >
+        <img src="https://github.com/shaheerkhan12/shaheerkhan12/blob/main/images/TypeScript.png" width="250" >
     </td>
      <td align='center' width="250">
-        <img src="https://github.com/shaheerkhan12/Muhammadshaheerkhan/blob/main/images/codeigniter.svg" width="250" >
+        <img src="https://github.com/shaheerkhan12/shaheerkhan12/blob/main/images/codeigniter.svg" width="250" >
     </td>
 </tr>
 
@@ -122,7 +122,7 @@
 <table width="100">
 <tr>
     <td align='center' width="250">
-        <img src="https://github.com/shaheerkhan12/Muhammadshaheerkhan/blob/main/images/aws.png" width="250" >
+        <img src="https://github.com/shaheerkhan12/shaheerkhan12/blob/main/images/aws.png" width="250" >
     </td>
 </tr>
 </table>
@@ -133,13 +133,13 @@
 <table width="100">
 <tr>
     <td align='center' width="250">
-        <img src="https://github.com/shaheerkhan12/Muhammadshaheerkhan/blob/main/images/jenkins.png" width="250" >
+        <img src="https://github.com/shaheerkhan12/shaheerkhan12/blob/main/images/jenkins.png" width="250" >
     </td>
     <td align='center' width="250">
-        <img src="https://github.com/shaheerkhan12/Muhammadshaheerkhan/blob/main/images/docker.png" width="250" >
+        <img src="https://github.com/shaheerkhan12/shaheerkhan12/blob/main/images/docker.png" width="250" >
     </td>
     <td align='center' width="250">
-        <img src="https://github.com/shaheerkhan12/Muhammadshaheerkhan/blob/main/images/kubernetes.png" width="250" >
+        <img src="https://github.com/shaheerkhan12/shaheerkhan12/blob/main/images/kubernetes.png" width="250" >
     </td>
 </tr>
 </table>
@@ -149,7 +149,7 @@
 <table width="100">
 <tr>
     <td align='center' width="250">
-        <img src="https://github.com/shaheerkhan12/Muhammadshaheerkhan/blob/main/images/wordpress.png" width="250" >
+        <img src="https://github.com/shaheerkhan12/shaheerkhan12/blob/main/images/wordpress.png" width="250" >
     </td>
 </tr>
 </table>
