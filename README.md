@@ -23,7 +23,7 @@
 ## 👋 About Me
 
 - 🔭 Currently working as a **Full Stack Developer**
-- 🌱 Currently leveling up in **Node.js, Next.js, Exp, Docker, Kafka**
+- 🌱 Currently leveling up in **Node.js, Next.js, Expo, Docker, Kafka**
 - 🧭 Working my way toward mastering **software deployment architecture**
 - ⚡ Fun fact: I enjoy turning messy data pipelines into clean, scalable systems
 - 💬 Ask me about: React, Node.js, TypeScript, or system design
